@@ -1,0 +1,132 @@
+{
+  "build": "he9d5cce_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [],
+  "extracted_package_dir": "/Users/nurul/opt/anaconda3/pkgs/reproc-14.2.4-he9d5cce_1",
+  "features": "",
+  "files": [
+    "include/reproc/drain.h",
+    "include/reproc/export.h",
+    "include/reproc/reproc.h",
+    "include/reproc/run.h",
+    "lib/cmake/reproc/reproc-config-version.cmake",
+    "lib/cmake/reproc/reproc-config.cmake",
+    "lib/cmake/reproc/reproc-targets-release.cmake",
+    "lib/cmake/reproc/reproc-targets.cmake",
+    "lib/libreproc.14.2.4.dylib",
+    "lib/libreproc.14.dylib",
+    "lib/libreproc.dylib",
+    "lib/pkgconfig/reproc.pc"
+  ],
+  "fn": "reproc-14.2.4-he9d5cce_1.conda",
+  "legacy_bz2_md5": "fb60b46e0c06f8f0c2b88aec82eb0f2d",
+  "legacy_bz2_size": 27166,
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/Users/nurul/opt/anaconda3/pkgs/reproc-14.2.4-he9d5cce_1",
+    "type": 1
+  },
+  "md5": "672724cb2ddc9ff66c952c1019cb687d",
+  "name": "reproc",
+  "package_tarball_full_path": "/Users/nurul/opt/anaconda3/pkgs/reproc-14.2.4-he9d5cce_1.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "include/reproc/drain.h",
+        "path_type": "hardlink",
+        "sha256": "85c4cf3387d3e3a05a737687d086c9e7cf241f2be9c4f55ddc566a9d1baecb99",
+        "sha256_in_prefix": "85c4cf3387d3e3a05a737687d086c9e7cf241f2be9c4f55ddc566a9d1baecb99",
+        "size_in_bytes": 2931
+      },
+      {
+        "_path": "include/reproc/export.h",
+        "path_type": "hardlink",
+        "sha256": "adaf50bb4c4964fc17295f12d60dd128c7b4a2633b9dfbd1507dce8089371051",
+        "sha256_in_prefix": "adaf50bb4c4964fc17295f12d60dd128c7b4a2633b9dfbd1507dce8089371051",
+        "size_in_bytes": 451
+      },
+      {
+        "_path": "include/reproc/reproc.h",
+        "path_type": "hardlink",
+        "sha256": "4c7bfdc442b8ad363c0c43a5bb8a22f3352fb5df23a302992d8c9933ea9046a4",
+        "sha256_in_prefix": "4c7bfdc442b8ad363c0c43a5bb8a22f3352fb5df23a302992d8c9933ea9046a4",
+        "size_in_bytes": 18656
+      },
+      {
+        "_path": "include/reproc/run.h",
+        "path_type": "hardlink",
+        "sha256": "9979e373828d243e2261039a52a0f695f27b0e5eaf0cda2e00531f46094a2b54",
+        "sha256_in_prefix": "9979e373828d243e2261039a52a0f695f27b0e5eaf0cda2e00531f46094a2b54",
+        "size_in_bytes": 882
+      },
+      {
+        "_path": "lib/cmake/reproc/reproc-config-version.cmake",
+        "path_type": "hardlink",
+        "sha256": "243b231c639f70b7ee8d8b166f9f3fe40986a5e8123768448e1d5091af3a6799",
+        "sha256_in_prefix": "243b231c639f70b7ee8d8b166f9f3fe40986a5e8123768448e1d5091af3a6799",
+        "size_in_bytes": 2881
+      },
+      {
+        "_path": "lib/cmake/reproc/reproc-config.cmake",
+        "path_type": "hardlink",
+        "sha256": "06befcb259155c51e608af2dade2b9489b0fa76c41343c193b5e073f142b203e",
+        "sha256_in_prefix": "06befcb259155c51e608af2dade2b9489b0fa76c41343c193b5e073f142b203e",
+        "size_in_bytes": 1101
+      },
+      {
+        "_path": "lib/cmake/reproc/reproc-targets-release.cmake",
+        "path_type": "hardlink",
+        "sha256": "6e2dd0c398cceaed383fe6db4dca4879a7685ad6635c5b3a58b96af42c651d41",
+        "sha256_in_prefix": "6e2dd0c398cceaed383fe6db4dca4879a7685ad6635c5b3a58b96af42c651d41",
+        "size_in_bytes": 817
+      },
+      {
+        "_path": "lib/cmake/reproc/reproc-targets.cmake",
+        "path_type": "hardlink",
+        "sha256": "86cd7f3ce33c4ea72559fea8ca06733174daeb8456217cf0e66c18a72c71b490",
+        "sha256_in_prefix": "86cd7f3ce33c4ea72559fea8ca06733174daeb8456217cf0e66c18a72c71b490",
+        "size_in_bytes": 3267
+      },
+      {
+        "_path": "lib/libreproc.14.2.4.dylib",
+        "path_type": "hardlink",
+        "sha256": "0f5ffae77e7f243b05033424e44e1c9e52942ca4ff2480bdef6e532e8366a7cb",
+        "sha256_in_prefix": "0f5ffae77e7f243b05033424e44e1c9e52942ca4ff2480bdef6e532e8366a7cb",
+        "size_in_bytes": 25380
+      },
+      {
+        "_path": "lib/libreproc.14.dylib",
+        "path_type": "softlink",
+        "sha256": "0f5ffae77e7f243b05033424e44e1c9e52942ca4ff2480bdef6e532e8366a7cb",
+        "size_in_bytes": 25380
+      },
+      {
+        "_path": "lib/libreproc.dylib",
+        "path_type": "softlink",
+        "sha256": "0f5ffae77e7f243b05033424e44e1c9e52942ca4ff2480bdef6e532e8366a7cb",
+        "size_in_bytes": 25380
+      },
+      {
+        "_path": "lib/pkgconfig/reproc.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_croot-k8feu5u7/reproc_1647441892135/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold",
+        "sha256": "5700529da09a2256689a07744dcb748674fbdada87dfc5b361013e86a36eee0c",
+        "sha256_in_prefix": "6cab8e3016c3fd272cbf8f7da95105b2cefb341609e1ba361de7ec1b9645b0fd",
+        "size_in_bytes": 535
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "840aebffb3ed7e72394e8853bb1831a7a913cc0751b390f3509925d1481b0029",
+  "size": 27155,
+  "subdir": "osx-64",
+  "timestamp": 1647441938749,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/reproc-14.2.4-he9d5cce_1.conda",
+  "version": "14.2.4"
+}

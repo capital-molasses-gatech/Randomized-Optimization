@@ -1,0 +1,11 @@
+prefix=/Users/nurul/opt/anaconda3/envs/venv-random_opt
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+toolexeclibdir=${libdir}
+includedir=/Users/nurul/opt/anaconda3/envs/venv-random_opt/include
+
+Name: libffi
+Description: Library supporting Foreign Function Interfaces
+Version: 3.4.4
+Libs: -L${toolexeclibdir} -lffi
+Cflags: -I${includedir}

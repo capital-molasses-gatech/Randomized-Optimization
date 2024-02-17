@@ -1,0 +1,11 @@
+prefix=/Users/nurul/opt/anaconda3/envs/venv-random_opt
+exec_prefix=/Users/nurul/opt/anaconda3/envs/venv-random_opt
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: fmt
+Description: A modern formatting library
+Version: 9.1.0
+Libs: -L${libdir} -lfmt
+Cflags: -I${includedir}
+

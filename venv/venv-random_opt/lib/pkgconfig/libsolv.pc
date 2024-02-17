@@ -1,0 +1,8 @@
+libdir=/Users/nurul/opt/anaconda3/envs/venv-random_opt/lib
+includedir=/Users/nurul/opt/anaconda3/envs/venv-random_opt/include
+
+Name: libsolv
+Description: Library for solving packages
+Version: 0.7.24
+Libs: -L${libdir} -lsolv
+Cflags: -I${includedir}
